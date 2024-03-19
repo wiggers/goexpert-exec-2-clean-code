@@ -8,7 +8,7 @@ Portas utilizadas:  BD : 3306<br/>
                     WEB_SERVER : 8000<br/>
                     GRPC_SERVER: 50051<br/>
                      GRAPHQL_SERVER : 8080<br/>
-                W
+                
 **Docker**<br/>
    Executar o comando: **docker-compose up -d**<br/>
     
